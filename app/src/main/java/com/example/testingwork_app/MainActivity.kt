@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
 
+
+
         startDownloading()
        /* getPermissions()
 //In my case I used a button
